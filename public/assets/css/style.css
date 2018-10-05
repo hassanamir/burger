@@ -1,0 +1,28 @@
+body{
+    background-color: orange;
+}
+h1 {
+    text-align: center;
+}
+/* .orders{
+    float:center;
+    margin: 100px;
+} */
+#db{
+    text-align: left;
+    background-color:white;
+    float:center;
+    widows: 100%;
+}
+#db{
+    text-align: right;
+    float: center;
+    width: 100px;
+}
+html { 
+    background: url(../img/o.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
